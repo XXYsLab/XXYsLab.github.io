@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+.somediv {
+	border: 2px solid black;
+  	margin: 20px;
+  	padding: 20px;
+}
+
+#someid {
+  	font-family: courier;
+}
+
+a:hover {
+	color: hotpink;
+}
+
+img {
+	width: 500px;
+	height: 500px;
+}
